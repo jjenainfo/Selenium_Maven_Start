@@ -1,0 +1,16 @@
+[INFO ] 2021-02-09 16:42:45.339 [main] Log4j2Demo - logging success
+[ERROR] 2021-02-09 16:42:45.354 [main] Log4j2Demo - It is an error
+[FATAL] 2021-02-09 16:42:45.355 [main] Log4j2Demo - Fatal error
+[WARN ] 2021-02-09 16:42:45.355 [main] Log4j2Demo - it is warning
+[INFO ] 2021-02-09 19:55:46.444 [main] Log4j2Demo - logging success
+[ERROR] 2021-02-09 19:55:46.459 [main] Log4j2Demo - It is an error
+[FATAL] 2021-02-09 19:55:46.459 [main] Log4j2Demo - Fatal error
+[WARN ] 2021-02-09 19:55:46.460 [main] Log4j2Demo - it is warning
+[INFO ] 2021-02-09 19:56:23.959 [main] Log4j2Demo - logging success
+[ERROR] 2021-02-09 19:56:23.973 [main] Log4j2Demo - It is an error
+[FATAL] 2021-02-09 19:56:23.974 [main] Log4j2Demo - Fatal error
+[WARN ] 2021-02-09 19:56:23.975 [main] Log4j2Demo - it is warning
+[INFO ] 2021-02-15 10:11:31.697 [main] Log4j2Demo - logging success
+[ERROR] 2021-02-15 10:11:31.718 [main] Log4j2Demo - It is an error
+[FATAL] 2021-02-15 10:11:31.719 [main] Log4j2Demo - Fatal error
+[WARN ] 2021-02-15 10:11:31.719 [main] Log4j2Demo - it is warning
